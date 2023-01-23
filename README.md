@@ -2,7 +2,13 @@
 
 The JW OTT Webapp is an open-source, dynamically generated video website built around JW Player and JW Platform services. It enables you to easily publish your JW Player-hosted video content with no coding and minimal configuration.
 
-To see an example of JW OTT Webapp in action, see [https://app-preview.jwplayer.com/](https://app-preview.jwplayer.com/).
+Examples of JW OTT Webapp in action:
+- Free + 24X7 Live + EPG : https://app-preview.jwplayer.com/?app-config=225tvq1i
+- Paywall Monetization (Tiered Subscriptions, Paywalls, PPV & TVOD): https://app-preview.jwplayer.com/?app-config=kziwdpjr
+- Ad Monetization : https://app-preview.jwplayer.com/?app-config=egpovogv
+- Authentication based login : https://app-preview.jwplayer.com/?app-config=ajs7jdfk
+- Youtube Style page layout (Inline Player) : https://app-preview.jwplayer.com/m/0QQJtVNF/caminandes-1-llama-drama?r=sR5VypYk&app-config=1rbui8uf
+-
 
 **Examples built using the JW OTT Webapp**
 
